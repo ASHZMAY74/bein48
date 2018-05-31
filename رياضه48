@@ -1,0 +1,186 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMAX1_Russia2018" tvg-logo="http://iptv27.com:9000/apk/salah/salah2018.png" group-title="BeinMAX Russia2018",BeinMAX1_Russia2018
+http://xtream.in:9000/live/wiedman/wa7debay/15808.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMAX2_Russia2018" tvg-logo="http://iptv27.com:9000/apk/salah/hakim_ziag.png" group-title="BeinMAX Russia2018",BeinMAX2_Russia2018
+http://xtream.in:9000/live/wiedman/wa7debay/15807.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinMAX3_Russia2018" tvg-logo="" group-title="BeinMAX Russia2018",BeinMAX3_Russia2018
+http://xtream.in:9000/live/wiedman/wa7debay/16736.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-Low_1" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein1.png" group-title="BeinSport 1M LOW",BeinSport-Low_1
+http://xtream.in:9000/live/wiedman/wa7debay/2315.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-Low_2" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein2.png" group-title="BeinSport 1M LOW",BeinSport-Low_2
+http://xtream.in:9000/live/wiedman/wa7debay/2316.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-Low_3" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein3.png" group-title="BeinSport 1M LOW",BeinSport-Low_3
+http://xtream.in:9000/live/wiedman/wa7debay/2317.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-Low_4" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein4.png" group-title="BeinSport 1M LOW",BeinSport-Low_4
+http://xtream.in:9000/live/wiedman/wa7debay/2318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-Low_5" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein5.png" group-title="BeinSport 1M LOW",BeinSport-Low_5
+http://xtream.in:9000/live/wiedman/wa7debay/2319.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-Low_6" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein6.png" group-title="BeinSport 1M LOW",BeinSport-Low_6
+http://xtream.in:9000/live/wiedman/wa7debay/2320.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-Low_7" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein7.png" group-title="BeinSport 1M LOW",BeinSport-Low_7
+http://xtream.in:9000/live/wiedman/wa7debay/2321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-Low_8" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein8.png" group-title="BeinSport 1M LOW",BeinSport-Low_8
+http://xtream.in:9000/live/wiedman/wa7debay/2322.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-Low_9" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein9.png" group-title="BeinSport 1M LOW",BeinSport-Low_9
+http://xtream.in:9000/live/wiedman/wa7debay/2323.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-Low_10" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein10.png" group-title="BeinSport 1M LOW",BeinSport-Low_10
+http://xtream.in:9000/live/wiedman/wa7debay/2324.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.1_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein1.png" group-title="BeinSport 1080",BEIN-SPORT.1_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/4420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.2_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein2.png" group-title="BeinSport 1080",BEIN-SPORT.2_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/4421.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.3_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein3.png" group-title="BeinSport 1080",BEIN-SPORT.3_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/4422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.4_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein4.png" group-title="BeinSport 1080",BEIN-SPORT.4_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/4423.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.5_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein5.png" group-title="BeinSport 1080",BEIN-SPORT.5_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/4424.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.6_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein6.png" group-title="BeinSport 1080",BEIN-SPORT.6_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/4425.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.7_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein7.png" group-title="BeinSport 1080",BEIN-SPORT.7_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/4426.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.8_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein8.png" group-title="BeinSport 1080",BEIN-SPORT.8_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/4427.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.9_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein9.png" group-title="BeinSport 1080",BEIN-SPORT.9_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/4428.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.10_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein10.png" group-title="BeinSport 1080",BEIN-SPORT.10_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/4429.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.11_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein11.png" group-title="BeinSport 1080",BEIN-SPORT.11_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/2297.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT.12_1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein12.png" group-title="BeinSport 1080",BEIN-SPORT.12_1080p
+http://xtream.in:9000/live/wiedman/wa7debay/2298.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT-Free-1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein_free.png" group-title=" BeinSport FREE ",BEIN-SPORT-Free-1080p
+http://xtream.in:9000/live/wiedman/wa7debay/2299.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN-SPORT-NEW-1080p" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein _NEWS.png" group-title=" BeinSport FREE ",BEIN-SPORT-NEW-1080p
+http://xtream.in:9000/live/wiedman/wa7debay/2335.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports1 FHD" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein1.png" group-title="BeinSport FHD",BeinSports1 FHD
+http://xtream.in:9000/live/wiedman/wa7debay/10251.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports2 FHD" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein2.png" group-title="BeinSport FHD",BeinSports2 FHD
+http://xtream.in:9000/live/wiedman/wa7debay/10250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports3 FHD" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein3.png" group-title="BeinSport FHD",BeinSports3 FHD
+http://xtream.in:9000/live/wiedman/wa7debay/10249.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports4 FHD" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein4.png" group-title="BeinSport FHD",BeinSports4 FHD
+http://xtream.in:9000/live/wiedman/wa7debay/10248.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports5 FHD" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein5.png" group-title="BeinSport FHD",BeinSports5 FHD
+http://xtream.in:9000/live/wiedman/wa7debay/10247.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports6 FHD" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein6.png" group-title="BeinSport FHD",BeinSports6 FHD
+http://xtream.in:9000/live/wiedman/wa7debay/10246.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports7 FHD" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein7.png" group-title="BeinSport FHD",BeinSports7 FHD
+http://xtream.in:9000/live/wiedman/wa7debay/10245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports8 FHD" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein8.png" group-title="BeinSport FHD",BeinSports8 FHD
+http://xtream.in:9000/live/wiedman/wa7debay/10244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports9 FHD" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein9.png" group-title="BeinSport FHD",BeinSports9 FHD
+http://xtream.in:9000/live/wiedman/wa7debay/10243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSports10 FHD" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein10.png" group-title="BeinSport FHD",BeinSports10 FHD
+http://xtream.in:9000/live/wiedman/wa7debay/10242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport1 2M" tvg-logo="" group-title="BeinSport 2M",BeinSport1 2M
+http://xtream.in:9000/live/wiedman/wa7debay/16425.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport2 2M" tvg-logo="" group-title="BeinSport 2M",BeinSport2 2M
+http://xtream.in:9000/live/wiedman/wa7debay/16424.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport3 2M" tvg-logo="" group-title="BeinSport 2M",BeinSport3 2M
+http://xtream.in:9000/live/wiedman/wa7debay/16423.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport4 2M" tvg-logo="" group-title="BeinSport 2M",BeinSport4 2M
+http://xtream.in:9000/live/wiedman/wa7debay/16422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport5 2M" tvg-logo="" group-title="BeinSport 2M",BeinSport5 2M
+http://xtream.in:9000/live/wiedman/wa7debay/16421.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport6 2M" tvg-logo="" group-title="BeinSport 2M",BeinSport6 2M
+http://xtream.in:9000/live/wiedman/wa7debay/16420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport7 2M" tvg-logo="" group-title="BeinSport 2M",BeinSport7 2M
+http://xtream.in:9000/live/wiedman/wa7debay/16419.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport8 2M" tvg-logo="" group-title="BeinSport 2M",BeinSport8 2M
+http://xtream.in:9000/live/wiedman/wa7debay/16418.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport9 2M" tvg-logo="" group-title="BeinSport 2M",BeinSport9 2M
+http://xtream.in:9000/live/wiedman/wa7debay/16417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport10 2M" tvg-logo="" group-title="BeinSport 2M",BeinSport10 2M
+http://xtream.in:9000/live/wiedman/wa7debay/16416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein.1_512_1m" tvg-logo="" group-title="BeinSport 512 1M",Bein.1_512_1m
+http://xtream.in:9000/live/wiedman/wa7debay/16662.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein.2_512_1m" tvg-logo="" group-title="BeinSport 512 1M",Bein.2_512_1m
+http://xtream.in:9000/live/wiedman/wa7debay/16661.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein.3_512_1m" tvg-logo="" group-title="BeinSport 512 1M",Bein.3_512_1m
+http://xtream.in:9000/live/wiedman/wa7debay/16660.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein.4_512_1m" tvg-logo="" group-title="BeinSport 512 1M",Bein.4_512_1m
+http://xtream.in:9000/live/wiedman/wa7debay/16659.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein.5_512_1m" tvg-logo="" group-title="BeinSport 512 1M",Bein.5_512_1m
+http://xtream.in:9000/live/wiedman/wa7debay/16658.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein.6_512_1m" tvg-logo="" group-title="BeinSport 512 1M",Bein.6_512_1m
+http://xtream.in:9000/live/wiedman/wa7debay/16657.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein.7_512_1m" tvg-logo="" group-title="BeinSport 512 1M",Bein.7_512_1m
+http://xtream.in:9000/live/wiedman/wa7debay/16656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein.8_512_1m" tvg-logo="" group-title="BeinSport 512 1M",Bein.8_512_1m
+http://xtream.in:9000/live/wiedman/wa7debay/16655.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein.9_512_1m" tvg-logo="" group-title="BeinSport 512 1M",Bein.9_512_1m
+http://xtream.in:9000/live/wiedman/wa7debay/16654.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein.10_512_1m" tvg-logo="" group-title="BeinSport 512 1M",Bein.10_512_1m
+http://xtream.in:9000/live/wiedman/wa7debay/16653.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein1_2m p" tvg-logo="" group-title="BeinSport 2M p",Bein1_2m p
+http://xtream.in:9000/live/wiedman/wa7debay/16652.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein2_2m p" tvg-logo="" group-title="BeinSport 2M p",Bein2_2m p
+http://xtream.in:9000/live/wiedman/wa7debay/16651.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein3_2m p" tvg-logo="" group-title="BeinSport 2M p",Bein3_2m p
+http://xtream.in:9000/live/wiedman/wa7debay/16650.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein4_2m p" tvg-logo="" group-title="BeinSport 2M p",Bein4_2m p
+http://xtream.in:9000/live/wiedman/wa7debay/16649.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein5_2m p" tvg-logo="" group-title="BeinSport 2M p",Bein5_2m p
+http://xtream.in:9000/live/wiedman/wa7debay/16648.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein6_2m p" tvg-logo="" group-title="BeinSport 2M p",Bein6_2m p
+http://xtream.in:9000/live/wiedman/wa7debay/16647.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein7_2m p" tvg-logo="" group-title="BeinSport 2M p",Bein7_2m p
+http://xtream.in:9000/live/wiedman/wa7debay/16646.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein8_2m p" tvg-logo="" group-title="BeinSport 2M p",Bein8_2m p
+http://xtream.in:9000/live/wiedman/wa7debay/16645.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein9_2m p" tvg-logo="" group-title="BeinSport 2M p",Bein9_2m p
+http://xtream.in:9000/live/wiedman/wa7debay/16688.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein h265-1" tvg-logo="" group-title=" BeinSport 265",Bein h265-1
+http://xtream.in:9000/live/wiedman/wa7debay/13795.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein h265-2" tvg-logo="" group-title=" BeinSport 265",Bein h265-2
+http://xtream.in:9000/live/wiedman/wa7debay/13794.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein h265-3" tvg-logo="" group-title=" BeinSport 265",Bein h265-3
+http://xtream.in:9000/live/wiedman/wa7debay/13793.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein h265-4" tvg-logo="" group-title=" BeinSport 265",Bein h265-4
+http://xtream.in:9000/live/wiedman/wa7debay/13792.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein h265-5" tvg-logo="" group-title=" BeinSport 265",Bein h265-5
+http://xtream.in:9000/live/wiedman/wa7debay/13791.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein h265-6" tvg-logo="" group-title=" BeinSport 265",Bein h265-6
+http://xtream.in:9000/live/wiedman/wa7debay/13790.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein h265-7" tvg-logo="" group-title=" BeinSport 265",Bein h265-7
+http://xtream.in:9000/live/wiedman/wa7debay/13789.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein h265-8" tvg-logo="" group-title=" BeinSport 265",Bein h265-8
+http://xtream.in:9000/live/wiedman/wa7debay/13788.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-SD1" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein1.png" group-title=" BeinSport SD",BeinSport-SD1
+http://xtream.in:9000/live/wiedman/wa7debay/2287.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-SD2" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein2.png" group-title=" BeinSport SD",BeinSport-SD2
+http://xtream.in:9000/live/wiedman/wa7debay/2288.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-SD3" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein3.png" group-title=" BeinSport SD",BeinSport-SD3
+http://xtream.in:9000/live/wiedman/wa7debay/2289.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-SD4" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein4.png" group-title=" BeinSport SD",BeinSport-SD4
+http://xtream.in:9000/live/wiedman/wa7debay/2290.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-SD5" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein5.png" group-title=" BeinSport SD",BeinSport-SD5
+http://xtream.in:9000/live/wiedman/wa7debay/2291.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-SD6" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein6.png" group-title=" BeinSport SD",BeinSport-SD6
+http://xtream.in:9000/live/wiedman/wa7debay/2292.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-SD7" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein7.png" group-title=" BeinSport SD",BeinSport-SD7
+http://xtream.in:9000/live/wiedman/wa7debay/2293.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-SD8" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein8.png" group-title=" BeinSport SD",BeinSport-SD8
+http://xtream.in:9000/live/wiedman/wa7debay/2294.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-SD9" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein9.png" group-title=" BeinSport SD",BeinSport-SD9
+http://xtream.in:9000/live/wiedman/wa7debay/2295.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeinSport-SD10" tvg-logo="http://iptv27.com:9000/apk/BeinSport/bein10.png" group-title=" BeinSport SD",BeinSport-SD10
+http://xtream.in:9000/live/wiedman/wa7debay/2296.ts
+http://xtream.in:9000/live/wiedman/wa7debay/14344.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN:MAX4" tvg-logo="" group-title=" BEIN LIGA",BeIN:MAX4
+http://xtream.in:9000/live/wiedman/wa7debay/14343.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN:MAX5" tvg-logo="" group-title=" BEIN LIGA",BeIN:MAX5
+http://xtream.in:9000/live/wiedman/wa7debay/14342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN:MAX6" tvg-logo="" group-title=" BEIN LIGA",BeIN:MAX6
+http://xtream.in:9000/live/wiedman/wa7debay/14341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN:MAX7" tvg-logo="" group-title=" BEIN LIGA",BeIN:MAX7
+http://xtream.in:9000/live/wiedman/wa7debay/14340.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN:MAX8" tvg-logo="" group-title=" BEIN LIGA",BeIN:MAX8
+http://xtream.in:9000/live/wiedman/wa7debay/14339.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN:TR_1" tvg-logo="" group-title=" BEIN LIGA",BeIN:TR_1
+http://xtream.in:9000/live/wiedman/wa7debay/14349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN:TR_2" tvg-logo="" group-title=" BEIN LIGA",BeIN:TR_2
+http://xtream.in:9000/live/wiedman/wa7debay/14348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN:TR_3" tvg-logo="" group-title=" BEIN LIGA",BeIN:TR_3
+http://xtream.in:9000/live/wiedman/wa7debay/14347.ts
